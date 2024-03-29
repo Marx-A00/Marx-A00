@@ -1,5 +1,5 @@
 # 💫 About Me:
-Based out of Minneapolis.<br><br>I like things that are interesting.<br><br>🌱 I’m currently learning:<br>Emacs Lisp, AI models, and system's architecture<br>
+Based out of Minneapolis.<br><br>Always Learning.<br><br>🌱 I’m currently learning:<br>Emacs Lisp, AI models, and system's architecture<br>
 
 
 ## 🌐 Socials:
